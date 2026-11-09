@@ -12,19 +12,19 @@ Systems programming · OS internals · Cybersecurity · Embedded & ML
 </div>
 
 ## Projects
- **[CityPulse](https://github.com/loonailove)** · 1st place, ITFest Hackathon<br>
+ **[CityPulse](https://github.com/AlexToader1/CityPulse)** · 1st place, ITFest Hackathon<br>
 Geo-targeted ad tool with an interactive heatmap scoring 8 cities from live weather, search trends, events and holidays. I built the frontend and integrated it with the ML scoring backend.<br>
 `Python` `FastAPI` `Next.js` `TypeScript`
  
-**[Container Vulnerability Scanner](https://github.com/loonailove)**<br>
+**[Container Vulnerability Scanner](https://github.com/lupsalexandra33/container-vuln-scanner)**<br>
 Merges findings from Grype, Trivy and OSV-Scanner into a single schema, with EPSS exploit-likelihood scoring, a filtering CLI and a calibration mode that measures per-scanner precision.<br>
 `Go` `Docker` `Security`
  
-**[Capacitor State-of-Health Monitor](https://github.com/loonailove)**<br>
+**[Capacitor State-of-Health Monitor](https://github.com/loonailove/supercapacitor-analyzer)**<br>
 ESP32 device that samples capacitor discharge curves in real time and streams voltage, current and capacitance to a live web dashboard. Presented at the UPB Student Scientific Communications Session.<br>
 `ESP32` `C/C++` `TensorFlow.js`
  
-**[Shot Detection & 3D Court Visualizer](https://github.com/loonailove)**<br>
+**[Shot Detection & 3D Court Visualizer](https://github.com/2radu3/Rally.AI)**<br>
 Detects basketball shots from YOLOv8-Pose keypoints and renders player hot zones and movement in a custom 3D engine written in vanilla JavaScript.<br>
 `Python` `Flask` `YOLOv8-Pose` `JavaScript`
  
