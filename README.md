@@ -15,19 +15,19 @@ Systems programming · OS internals · Cybersecurity · Embedded & ML
 
 <div style="text-align: left;">
 
-- <span style="font-size: 1.1em;">**[CityPulse](https://github.com)**</span>  
+- <span style="font-size: 1.1em;">**[CityPulse](https://github.com/AlexToader1/CityPulse)**</span>  
   <small>Geo-targeted ad tool with an interactive heatmap scoring 8 cities from live weather, search trends, events and holidays. I built the frontend and integrated it with the ML scoring backend.</small>  
   <small>`Python` `FastAPI` `Next.js` `TypeScript`</small>
 
-- <span style="font-size: 1.1em;">**[Container Vulnerability Scanner](https://github.com)**</span>  
+- <span style="font-size: 1.1em;">**[Container Vulnerability Scanner](https://github.com/lupsalexandra33/container-vuln-scanner)**</span>  
   <small>Merges findings from Grype, Trivy and OSV-Scanner into a single schema, with EPSS exploit-likelihood scoring, a filtering CLI and a calibration mode that measures per-scanner precision.</small>  
   <small>`Go` `Docker` `Security`</small>
 
-- <span style="font-size: 1.1em;">**[Capacitor State-of-Health Monitor](https://github.com)**</span>  
+- <span style="font-size: 1.1em;">**[Capacitor State-of-Health Monitor](https://github.com/loonailove/supercapacitor-analyzer)**</span>  
   <small>ESP32 device that samples capacitor discharge curves in real time and streams voltage, current and capacitance to a live web dashboard. Presented at the UPB Student Scientific Communications Session.</small>  
   <small>`ESP32` `C/C++` `TensorFlow.js`</small>
 
-- <span style="font-size: 1.1em;">**[Shot Detection & 3D Court Visualizer](https://github.com)**</span>  
+- <span style="font-size: 1.1em;">**[Shot Detection & 3D Court Visualizer](https://github.com/2radu3/Rally.AI)**</span>  
   <small>Detects basketball shots from YOLOv8-Pose keypoints and renders player hot zones and movement in a custom 3D engine written in vanilla JavaScript.</small>  
   <small>`Python` `Flask` `YOLOv8-Pose` `JavaScript`</small>
 
