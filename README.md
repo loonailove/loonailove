@@ -5,6 +5,6 @@
 **3rd year** Computer Science & Engineering student @ University Politehnica of Bucharest
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daiana-dindere/)
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daianagab29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiana.dindere@stud.acs.upb.ro)
 
 </div>
