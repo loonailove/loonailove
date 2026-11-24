@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="hey, i’m daiana. i build systems and measure whether they actually work." width="100%">
 
-<a href="https://loonailove.github.io"><img src="assets/btn-portfolio.svg" alt="portfolio" height="36"></a><a href="https://www.linkedin.com/in/daiana-dindere/"><img src="assets/btn-linkedin.svg" alt="linkedin" height="36"></a><a href="mailto:daianagab29@gmail.com"><img src="assets/btn-email.svg" alt="email" height="36"></a>
+<a href="https://loonailove.github.io"><img src="assets/btn-portfolio.svg" alt="portfolio" height="52"></a><a href="https://www.linkedin.com/in/daiana-dindere/"><img src="assets/btn-linkedin.svg" alt="linkedin" height="52"></a><a href="mailto:daianagab29@gmail.com"><img src="assets/btn-email.svg" alt="email" height="52"></a>
 
 <img src="assets/about.svg" width="100%" alt="my work centers around building systems and measuring whether they actually work. i study computer science & engineering at politehnica university of bucharest. interests: distributed systems, security, embedded systems, chaos engineering.">
 
