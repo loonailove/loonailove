@@ -27,6 +27,9 @@
 <img src="assets/h-stack.svg" width="100%" alt="stack">
 <img src="assets/stack.svg" width="100%" alt="c, c++, python, go, java, javascript, typescript, bash, spring boot, next.js, flask, tensorflow, docker, linux, git">
 
+<img src="assets/h-currently.svg" width="100%" alt="currently">
+<img src="assets/currently.svg" width="100%" alt="building kintsugi scheduler, reading designing data-intensive applications, practicing leetcode and neetcode 150">
+
 <img src="assets/seam.svg" width="100%" alt="">
 
 <a href="mailto:daianagab29@gmail.com"><img src="assets/footer.svg" width="100%" alt="want to chat? say hi at daianagab29@gmail.com"></a>
