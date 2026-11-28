@@ -15,6 +15,5 @@
 <img src="assets/timeline.svg" width="100%" align="top" alt="experience timeline from 2024 to summer 2027">
 <img src="assets/h-stack.svg" width="100%" align="top" alt="stack">
 <img src="assets/stack.svg" width="100%" align="top" alt="c, c++, python, go, java, javascript, typescript, bash, spring boot, next.js, flask, tensorflow, docker, linux, git">
-<img src="assets/seam.svg" width="100%" align="top" alt="">
 <a href="mailto:daianagab29@gmail.com"><img src="assets/footer.svg" width="100%" align="top" alt="want to chat? say hi at daianagab29@gmail.com"></a>
 </div>
