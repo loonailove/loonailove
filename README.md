@@ -2,7 +2,6 @@
 <img src="assets/banner-top.svg" alt="hey, i’m daiana. i build systems and measure whether they actually work." width="100%" align="top">
 <img src="assets/banner-left.svg" alt="" width="30%" align="top"><a href="https://loonailove.github.io"><img src="assets/banner-portfolio.svg" alt="portfolio" width="21.55%" align="top"></a><a href="https://www.linkedin.com/in/daiana-dindere/"><img src="assets/banner-linkedin.svg" alt="linkedin" width="22.22%" align="top"></a><a href="mailto:daianagab29@gmail.com"><img src="assets/banner-email.svg" alt="email" width="26.22%" align="top"></a>
 <img src="assets/about.svg" width="100%" align="top" alt="my work centers around building systems and measuring whether they actually work. i study computer science & engineering at politehnica university of bucharest. interests: distributed systems, security, embedded systems, chaos engineering.">
-<img src="assets/seam.svg" width="100%" align="top" alt="">
 <img src="assets/h-kintsugi.svg" width="100%" align="top" alt="kintsugi mode">
 <img src="assets/workers.svg" width="100%" align="top" alt="animated workers dying and being repaired in gold">
 <img src="assets/h-projects.svg" width="100%" align="top" alt="top projects">
